@@ -7,3 +7,5 @@
 Currently, I'm working on a shooter game in Construct 3 and I will hopefully upload the final version to that website's "arcade" page under the username Furness804. A link to the uploaded version/s might also be added here on GitHub in a new repository.
 
 UPDATE: The shooter game might not end up on Construct 3's arcade page. This is not because of issues with the website, it is instead because that I am unsure of whether or not I'll be able to obtain a link to put in a new repository as I said I would.
+
+UPDATE: All new updates will be added in a new file called UpdateLog.md
